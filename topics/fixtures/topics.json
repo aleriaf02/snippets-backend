@@ -1,0 +1,335 @@
+[
+{
+    "model": "topics.topic",
+    "pk": 1,
+    "fields": {
+        "name": "Angular",
+        "color": "#980000",
+        "icon": "static/topics/angular.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 2,
+    "fields": {
+        "name": "Bash",
+        "color": "#232323",
+        "icon": "static/topics/bash.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 3,
+    "fields": {
+        "name": "C",
+        "color": "#16162D",
+        "icon": "static/topics/c.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 4,
+    "fields": {
+        "name": "C++",
+        "color": "#171346",
+        "icon": "static/topics/c-plus-plus.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 5,
+    "fields": {
+        "name": "C#",
+        "color": "#002533",
+        "icon": "static/topics/c-sharp.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 6,
+    "fields": {
+        "name": "CSS",
+        "color": "#112E41",
+        "icon": "static/topics/css.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 7,
+    "fields": {
+        "name": "Dart",
+        "color": "#0D1A57",
+        "icon": "static/topics/dart.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 8,
+    "fields": {
+        "name": "Django",
+        "color": "#115644",
+        "icon": "static/topics/django.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 9,
+    "fields": {
+        "name": "Docker",
+        "color": "#004072",
+        "icon": "static/topics/docker.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 10,
+    "fields": {
+        "name": "Firebase",
+        "color": "#794E06",
+        "icon": "static/topics/firebase.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 11,
+    "fields": {
+        "name": "Flask",
+        "color": "#4E7497",
+        "icon": "static/topics/flask.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 12,
+    "fields": {
+        "name": "Flutter",
+        "color": "#284350",
+        "icon": "static/topics/flutter.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 13,
+    "fields": {
+        "name": "Git",
+        "color": "#672B18",
+        "icon": "static/topics/git.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 14,
+    "fields": {
+        "name": "GitHub",
+        "color": "#4471b1",
+        "icon": "static/topics/github.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 15,
+    "fields": {
+        "name": "GitLab",
+        "color": "#08143C",
+        "icon": "static/topics/gitlab.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 16,
+    "fields": {
+        "name": "Go",
+        "color": "#0B454C",
+        "icon": "static/topics/golang.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 17,
+    "fields": {
+        "name": "GraphQL",
+        "color": "#741337",
+        "icon": "static/topics/graphql.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 18,
+    "fields": {
+        "name": "Heroku",
+        "color": "#332845",
+        "icon": "static/topics/heroku.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 19,
+    "fields": {
+        "name": "HTML",
+        "color": "#642910",
+        "icon": "static/topics/html.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 20,
+    "fields": {
+        "name": "Java",
+        "color": "#08143C",
+        "icon": "static/topics/java.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 21,
+    "fields": {
+        "name": "JavaScript",
+        "color": "#595022",
+        "icon": "static/topics/javascript.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 22,
+    "fields": {
+        "name": "Kotlin",
+        "color": "#391E6B",
+        "icon": "static/topics/kotlin.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 23,
+    "fields": {
+        "name": "MongoDB",
+        "color": "#1b621b",
+        "icon": "static/topics/mongodb.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 24,
+    "fields": {
+        "name": "MySQL",
+        "color": "#1A2026",
+        "icon": "static/topics/mysql.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 25,
+    "fields": {
+        "name": "Nginx",
+        "color": "#415B42",
+        "icon": "static/topics/nginx.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 26,
+    "fields": {
+        "name": "Node.js",
+        "color": "#3B803B",
+        "icon": "static/topics/nodejs.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 27,
+    "fields": {
+        "name": "PostgreSQL",
+        "color": "#2E4455",
+        "icon": "static/topics/postgres.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 28,
+    "fields": {
+        "name": "Python",
+        "color": "#183249",
+        "icon": "static/topics/python.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 29,
+    "fields": {
+        "name": "React",
+        "color": "#29435E",
+        "icon": "static/topics/react.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 30,
+    "fields": {
+        "name": "Ruby",
+        "color": "#560705",
+        "icon": "static/topics/ruby.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 31,
+    "fields": {
+        "name": "Sass",
+        "color": "#961E47",
+        "icon": "static/topics/sass.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 32,
+    "fields": {
+        "name": "Spring",
+        "color": "#217726",
+        "icon": "static/topics/spring.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 33,
+    "fields": {
+        "name": "SQL",
+        "color": "#101D33",
+        "icon": "static/topics/sql.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 34,
+    "fields": {
+        "name": "Swift",
+        "color": "#582B07",
+        "icon": "static/topics/swift.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 35,
+    "fields": {
+        "name": "TypeScript",
+        "color": "#02315F",
+        "icon": "static/topics/typescript.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 36,
+    "fields": {
+        "name": "Vue.js",
+        "color": "#848B5D",
+        "icon": "static/topics/vue-js.png"
+    }
+},
+{
+    "model": "topics.topic",
+    "pk": 37,
+    "fields": {
+        "name": "Solidity",
+        "color": "#5c5c5c",
+        "icon": "static/topics/solidity.png"
+    }
+}
+]
